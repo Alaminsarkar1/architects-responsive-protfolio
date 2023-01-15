@@ -40,11 +40,6 @@ nav>ul {
 }
 
 /* end nav bar */
-@media screen and (max-width:576px) {
-    nav {
-        flex-direction: column;
-    }
-}
 
 /* stard banner */
 .banner {
@@ -132,9 +127,6 @@ p {
 }
 
 /* end worker style */
-@media screen and (max-width:576px) {
-
-}
 /* stard features style */
 .content {
     display: flex;
